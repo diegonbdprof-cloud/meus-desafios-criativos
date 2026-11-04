@@ -1,0 +1,12 @@
+-- caso 1 -- esperado: LIBERAR
+4
+1 2 3 5
+-- caso 2 -- esperado: REVISAR
+5
+7 1 2 3 4
+-- caso 3 -- esperado: REVISAR
+5
+-1 14 2 3 4
+-- caso 4 -- esperado: BLOQUEAR
+6
+-7 14 -3 8 21 1

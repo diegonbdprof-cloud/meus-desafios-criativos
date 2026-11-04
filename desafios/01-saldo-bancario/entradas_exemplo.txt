@@ -1,0 +1,22 @@
+-- caso 1 -- esperado: saldo 12
+4
+10
+-3
+0
+5
+-- caso 2 -- esperado: saldo insuficiente
+3
+8
+-10
+4
+-- caso 3 -- esperado: saldo 4
+5
+0
+0
+7
+-2
+-1
+-- caso 4 -- esperado: saldo 0
+2
+0
+0
